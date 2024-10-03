@@ -1,0 +1,7 @@
+.box {
+  display: flex;
+  flex-direction: column;
+}
+.info {
+  font-size: 20px;
+}
